@@ -33,7 +33,8 @@ const ContactUs = () => {
         Created by
         <div className='font-thin inline'>
         <a href='https://github.com/Thilages' target="_blank" rel="noopener noreferrer"> Thilagesh</a> &
-        <a href='https://www.linkedin.com/in/aishwarya-ganga-vn-72983b260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' target="_blank" rel="noopener noreferrer"> myself</a>
+        <a href='https://www.linkedin.com/in/aishwarya-ganga-vn-72983b260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' target="_blank" rel="noopener noreferrer">Aishwarya
+        </a>
         </div>
       </p>
 
